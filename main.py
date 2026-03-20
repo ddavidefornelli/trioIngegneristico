@@ -1,5 +1,7 @@
 for i in range(30):
     print("il trio informatico DOMINA")
+    print("\n Gruppo magmo merda!!!")
+    print("\n Nicola di trani ha perso il focus!")
 
 
 def fibonacci(n):
