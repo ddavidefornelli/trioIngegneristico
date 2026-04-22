@@ -1,9 +1,16 @@
-for i in range(30):
+for i in range(1):
     print("il trio informatico DOMINA")
     print("Ciao Ciao ciao ciao ciao david")
+    print("Gruppo magmo merda!!!")
+    print("Nicola di trani ha perso il focus!")
+    print("che divertimento!")
 
-    print("\n Gruppo magmo merda!!!")
-    print("\n Nicola di trani ha perso il focus!")
+num1 = input("Inserisci il primo numero: ")
+num2 = input("Inserisci il secondo numero: ")
+
+somma = float(num1) + float(num2)
+
+print(f"La somma di {num1} e {num2} è: {somma}")
 
 
 def fibonacci(n):
@@ -16,4 +23,4 @@ def fibonacci(n):
         print(b)
 
 
-fibonacci(12)
+fibonacci(4)
